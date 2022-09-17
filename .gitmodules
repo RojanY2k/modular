@@ -1,3 +1,6 @@
 [submodule "FileSharing"]
 	path = FileSharing
 	url = https://github.com/RojanY2k/FileSharing.git
+[submodule "file_sub"]
+	path = file_sub
+	url = https://github.com/RojanY2k/file_sub.git
